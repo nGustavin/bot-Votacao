@@ -1,0 +1,771 @@
+1605147974630	geckodriver	INFO	Listening on 127.0.0.1:54899
+1605147974634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSpOuOK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605147982095	Marionette	INFO	Listening on port 43897
+1605147982284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605147988346	Marionette	INFO	Stopped listening on port 43897
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605147996371	geckodriver	INFO	Listening on 127.0.0.1:34901
+1605147996375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2BunW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605148000202	Marionette	INFO	Listening on port 39051
+1605148000324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605148007551	Marionette	INFO	Stopped listening on port 39051
+1605148016227	geckodriver	INFO	Listening on 127.0.0.1:32939
+1605148017231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2BimPT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605148020986	Marionette	INFO	Listening on port 42947
+1605148021079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605148028404	Marionette	INFO	Stopped listening on port 42947
+1605148040044	geckodriver	INFO	Listening on 127.0.0.1:34595
+1605148040047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecg36ux"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605148044147	Marionette	INFO	Listening on port 42479
+1605148044186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605148049939	Marionette	INFO	Stopped listening on port 42479
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605149316990	geckodriver	INFO	Listening on 127.0.0.1:54579
+1605149317966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIR9Sq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605149327492	Marionette	INFO	Listening on port 42899
+1605149327804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605149351657	Marionette	INFO	Stopped listening on port 42899
+1605150102857	geckodriver	INFO	Listening on 127.0.0.1:44065
+1605150102860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelVybCL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605150107189	Marionette	INFO	Listening on port 33905
+1605150107307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605150120895	Marionette	INFO	Stopped listening on port 33905
+1605205501453	geckodriver	INFO	Listening on 127.0.0.1:56253
+1605205502423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLlAnRR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205506730	Marionette	INFO	Listening on port 45435
+1605205506825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child2/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:154:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\ndestroy@resource://devtools/shared/protocol/Front.js:65:11\ndestroy@resource://devtools/client/fronts/inspector.js:104:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:657:17\n", "resource://devtools/shared/protocol/Front.js", 98))
+1605205561698	geckodriver	INFO	Listening on 127.0.0.1:60221
+1605205561708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileajqn44"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205565981	Marionette	INFO	Listening on port 37545
+1605205566063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605205590573	Marionette	INFO	Stopped listening on port 37545
+1605205663847	geckodriver	INFO	Listening on 127.0.0.1:55493
+1605205663850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexkBAmL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205667432	Marionette	INFO	Listening on port 43617
+1605205667485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605205687090	Marionette	INFO	Stopped listening on port 43617
+1605205701878	geckodriver	INFO	Listening on 127.0.0.1:52155
+1605205701882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiLMdfk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205705811	Marionette	INFO	Listening on port 43239
+1605205705921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605205893388	geckodriver	INFO	Listening on 127.0.0.1:48747
+1605205893392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5CA4Nh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205897628	Marionette	INFO	Listening on port 33981
+1605205897738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605205909851	Marionette	INFO	Stopped listening on port 33981
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605205922918	geckodriver	INFO	Listening on 127.0.0.1:57697
+1605205922921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5PxVAz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605205926781	Marionette	INFO	Listening on port 33795
+1605205926860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206107629	geckodriver	INFO	Listening on 127.0.0.1:33715
+1605206107633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegTNtoV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605206111663	Marionette	INFO	Listening on port 42885
+1605206111784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206130932	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605206156290	Marionette	INFO	Stopped listening on port 33795
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605206159523	Marionette	INFO	Stopped listening on port 45435
+1605206166137	Marionette	INFO	Stopped listening on port 43239
+1605206217785	geckodriver	INFO	Listening on 127.0.0.1:49425
+1605206217790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ooJFd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605206221704	Marionette	INFO	Listening on port 45627
+1605206221817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206234911	Marionette	INFO	Stopped listening on port 45627
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605206242813	geckodriver	INFO	Listening on 127.0.0.1:54583
+1605206243818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemIA8fo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605206247302	Marionette	INFO	Listening on port 46111
+1605206247348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206293714	geckodriver	INFO	Listening on 127.0.0.1:60401
+1605206294720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTy3CFk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605206298480	Marionette	INFO	Listening on port 33793
+1605206298564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206326660	Marionette	INFO	Stopped listening on port 33793
+1605206348144	geckodriver	INFO	Listening on 127.0.0.1:41133
+1605206348148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFD85l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605206352083	Marionette	INFO	Listening on port 42259
+1605206352193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 224: TypeError: a.slice is not a function
+1605206376507	Marionette	INFO	Stopped listening on port 42259
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605207638731	geckodriver	INFO	Listening on 127.0.0.1:53999
+1605207639737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekfTD7E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207643679	Marionette	INFO	Listening on port 42047
+1605207643768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207656840	geckodriver	INFO	Listening on 127.0.0.1:60825
+1605207656845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejHOfJC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207662883	Marionette	INFO	Listening on port 40553
+1605207662991	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207667226	Marionette	INFO	Stopped listening on port 42047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605207671313	Marionette	INFO	Stopped listening on port 40553
+1605207682389	geckodriver	INFO	Listening on 127.0.0.1:38433
+1605207682393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2T6vQc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207686456	Marionette	INFO	Listening on port 33599
+1605207686538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207742242	geckodriver	INFO	Listening on 127.0.0.1:41251
+1605207742246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenR9wYE"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605207744304	Marionette	INFO	Stopped listening on port 33599
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207746578	Marionette	INFO	Listening on port 39557
+1605207746689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207764298	geckodriver	INFO	Listening on 127.0.0.1:42405
+1605207764303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZPxoJY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207769110	Marionette	INFO	Listening on port 34679
+1605207769148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207800138	geckodriver	INFO	Listening on 127.0.0.1:35367
+1605207800141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezhEHKa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207807678	Marionette	INFO	Listening on port 40919
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605207810716	Marionette	INFO	Stopped listening on port 34679
+1605207815784	geckodriver	INFO	Listening on 127.0.0.1:54435
+1605207815787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileROWrpo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207819982	Marionette	INFO	Listening on port 37867
+1605207820030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207875058	geckodriver	INFO	Listening on 127.0.0.1:43351
+1605207875062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenjlzZz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605207879361	Marionette	INFO	Listening on port 45643
+1605207879406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207979412	geckodriver	INFO	Listening on 127.0.0.1:48715
+1605207980426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebuHYqB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605207992878	Marionette	INFO	Listening on port 32901
+1605207993073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208112008	Marionette	INFO	Stopped listening on port 39557
+1605208114020	Marionette	INFO	Stopped listening on port 45643
+1605208120783	Marionette	INFO	Stopped listening on port 42885
+1605208121804	Marionette	INFO	Stopped listening on port 46111
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1605208122997	Marionette	INFO	Stopped listening on port 37867
+1605208123356	Marionette	INFO	Stopped listening on port 32901
+1605208130600	geckodriver	INFO	Listening on 127.0.0.1:41461
+1605208131578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN5y3TV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208141235	Marionette	INFO	Listening on port 38131
+1605208141404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208181830	geckodriver	INFO	Listening on 127.0.0.1:58863
+1605208181834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevkB5XV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208186035	Marionette	INFO	Listening on port 40749
+1605208186076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208234620	geckodriver	INFO	Listening on 127.0.0.1:57445
+1605208234624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCRANS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208238497	Marionette	INFO	Listening on port 37705
+1605208238572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208276366	geckodriver	INFO	Listening on 127.0.0.1:51811
+1605208277372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledxgWn9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208282221	Marionette	INFO	Listening on port 34985
+1605208282307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208313585	geckodriver	INFO	Listening on 127.0.0.1:44719
+1605208314589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJqTJyc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208318892	Marionette	INFO	Listening on port 39355
+1605208318927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208367904	geckodriver	INFO	Listening on 127.0.0.1:49195
+1605208367908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBqxYt5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605208380924	Marionette	INFO	Listening on port 40169
+1605208380971	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208387851	Marionette	INFO	Stopped listening on port 40749
+1605208388030	Marionette	INFO	Stopped listening on port 38131
+1605208388099	Marionette	INFO	Stopped listening on port 37705
+1605208388306	Marionette	INFO	Stopped listening on port 34985
+1605208388394	Marionette	INFO	Stopped listening on port 39355
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1605208400732	geckodriver	INFO	Listening on 127.0.0.1:52955
+1605208400736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepWFDgo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208404492	Marionette	INFO	Listening on port 44849
+1605208404574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript error: https://s0.2mdn.net/10329087/1603462510873/index.html, line 152: TypeError: a.a is null
+JavaScript error: https://s0.2mdn.net/10329087/1603462510873/index.html, line 166: TypeError: this.a is null
+1605208445055	geckodriver	INFO	Listening on 127.0.0.1:39659
+1605208445059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJjmM3W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208449051	Marionette	INFO	Listening on port 44233
+1605208449088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208474283	geckodriver	INFO	Listening on 127.0.0.1:33257
+1605208474287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletPxfcf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208477950	Marionette	INFO	Listening on port 44149
+1605208478027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208506616	geckodriver	INFO	Listening on 127.0.0.1:56405
+1605208507621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg5OMf8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208511386	Marionette	INFO	Listening on port 43613
+1605208511471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208533312	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208565999	Marionette	INFO	Stopped listening on port 44849
+1605208566444	Marionette	INFO	Stopped listening on port 44233
+1605208567037	Marionette	INFO	Stopped listening on port 44149
+1605208567380	Marionette	INFO	Stopped listening on port 43613
+1605208568689	geckodriver	INFO	Listening on 127.0.0.1:53597
+1605208568694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7extlS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208572518	Marionette	INFO	Listening on port 46537
+1605208572630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208594019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208640033	Marionette	INFO	Stopped listening on port 46537
+1605208642917	geckodriver	INFO	Listening on 127.0.0.1:35347
+1605208642933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePXDkOj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208646637	Marionette	INFO	Listening on port 46807
+1605208646663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208674845	Marionette	INFO	Stopped listening on port 46807
+1605208697082	geckodriver	INFO	Listening on 127.0.0.1:53985
+1605208697086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9bMiW7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208700701	Marionette	INFO	Listening on port 41771
+1605208700815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208705429	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+1605208719047	Marionette	INFO	Stopped listening on port 41771
+1605208749131	geckodriver	INFO	Listening on 127.0.0.1:47787
+1605208749135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledb7ddy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208752626	Marionette	INFO	Listening on port 42289
+1605208752670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605208774076	Marionette	INFO	Stopped listening on port 42289
+1605208794645	geckodriver	INFO	Listening on 127.0.0.1:34605
+1605208795651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledQq6s1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208799499	Marionette	INFO	Listening on port 36855
+1605208799591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605208845537	Marionette	INFO	Stopped listening on port 36855
+1605208964319	geckodriver	INFO	Listening on 127.0.0.1:50569
+1605208964323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemxRtXV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605208967731	Marionette	INFO	Listening on port 42429
+1605208967855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2828 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2828 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605209210903	geckodriver	INFO	Listening on 127.0.0.1:54361
+1605209210908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGu3ml"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209214637	Marionette	INFO	Listening on port 45017
+1605209214739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605209228800	geckodriver	INFO	Listening on 127.0.0.1:34707
+1605209228804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnOphn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209232472	Marionette	INFO	Listening on port 44655
+1605209232533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 3742 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 3742 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2512 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2512 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209248947	geckodriver	INFO	Listening on 127.0.0.1:55939
+1605209248950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei3qhsm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209253130	Marionette	INFO	Listening on port 38975
+1605209253186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 4284 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 4284 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 996 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 996 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209271297	geckodriver	INFO	Listening on 127.0.0.1:44645
+1605209272303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS9KtZu"
+*** You are running in headless mode.
+1605209342961	geckodriver	INFO	Listening on 127.0.0.1:39345
+1605209342965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGl5tJn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209346403	Marionette	INFO	Listening on port 37649
+1605209346495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3968 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3968 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209350923	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 4772 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 4772 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209397776	geckodriver	INFO	Listening on 127.0.0.1:56131
+1605209397781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoxX6O5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209402365	Marionette	INFO	Listening on port 42937
+1605209402423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 6506 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 6506 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209425596	geckodriver	INFO	Listening on 127.0.0.1:47455
+1605209425599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZXxjGb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209429681	Marionette	INFO	Listening on port 45617
+1605209429739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 7140 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 7140 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209444001	geckodriver	INFO	Listening on 127.0.0.1:35771
+1605209444008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2hfFv9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209448359	Marionette	INFO	Listening on port 38353
+1605209448460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2464 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2464 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 1372 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 1372 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1605209496919	geckodriver	INFO	Listening on 127.0.0.1:33627
+1605209496923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEAnexe"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209500977	Marionette	INFO	Listening on port 45203
+1605209501069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 6559 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 6559 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209524958	geckodriver	INFO	Listening on 127.0.0.1:38995
+1605209524962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegrTPUG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209529375	Marionette	INFO	Listening on port 40179
+1605209529505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 861 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 861 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605209556934	geckodriver	INFO	Listening on 127.0.0.1:45871
+1605209556938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5loLRT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605209561686	Marionette	INFO	Listening on port 46729
+1605209561791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 6257 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 6257 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2846 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 2846 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2556 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2556 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 3264 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 3264 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3299 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3299 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 4848 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 4848 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2832 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2832 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 5118 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 5118 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
