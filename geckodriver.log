@@ -769,3 +769,602 @@ JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line
 JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 5118 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 5118 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 1758 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 1758 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605211032616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605211087329	geckodriver	INFO	Listening on 127.0.0.1:53927
+1605211088432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecByGd9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605211120194	Marionette	INFO	Listening on port 41455
+1605211121561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 5013 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 5013 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 241 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 241 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 1566 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 1566 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 1784 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 1784 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4427 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4427 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3573 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 3573 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212223238	geckodriver	INFO	Listening on 127.0.0.1:37255
+1605212224083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexEgqyZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212232393	Marionette	INFO	Listening on port 35827
+1605212232471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605212240644	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2965 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2965 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212247776	geckodriver	INFO	Listening on 127.0.0.1:34741
+1605212247780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYPSBEf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212253506	Marionette	INFO	Listening on port 35001
+1605212253652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1721 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1721 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212279959	geckodriver	INFO	Listening on 127.0.0.1:37353
+1605212280963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZXFQGE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212288414	Marionette	INFO	Listening on port 46753
+1605212288563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605212304005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2022 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XBBK78madRVssJHvWEGUs48C-hcnkxru59HPT9jwppg.js line 1 > eval line 2022 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212311804	geckodriver	INFO	Listening on 127.0.0.1:49793
+1605212312808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley9k3qp"
+*** You are running in headless mode.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212323104	Marionette	INFO	Listening on port 45557
+1605212323232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1404 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1404 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 6647 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 6647 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212533696	geckodriver	INFO	Listening on 127.0.0.1:42203
+1605212534855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0E536Y"
+*** You are running in headless mode.
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605212942637	geckodriver	INFO	Listening on 127.0.0.1:35463
+1605212943616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfiz4H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212948289	Marionette	INFO	Listening on port 36021
+1605212948564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3222 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3222 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605212960739	geckodriver	INFO	Listening on 127.0.0.1:52139
+1605212960744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelaoDts"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605212964018	Marionette	INFO	Listening on port 36921
+1605212964082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3818 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3818 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605213036670	geckodriver	INFO	Listening on 127.0.0.1:51619
+1605213036674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledFMMYI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605213040388	Marionette	INFO	Listening on port 45637
+1605213040506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 694 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 694 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605213360305	geckodriver	INFO	Listening on 127.0.0.1:39079
+1605213360309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL4YSZQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605213364010	Marionette	INFO	Listening on port 33713
+1605213364046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1830 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1830 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1605214664393	geckodriver	INFO	Listening on 127.0.0.1:54455
+1605214664397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOClnGc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605214668419	Marionette	INFO	Listening on port 39917
+1605214668534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1330 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1330 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605214675785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+1605214679939	geckodriver	INFO	Listening on 127.0.0.1:46001
+1605214679945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqIPWdi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605214684338	Marionette	INFO	Listening on port 38597
+1605214684392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1605217495771	geckodriver	INFO	Listening on 127.0.0.1:35633
+1605217495776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenFtIJd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605217500883	Marionette	INFO	Listening on port 43237
+1605217500963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7352 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7352 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605217520001	geckodriver	INFO	Listening on 127.0.0.1:43051
+1605217521005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehpOuBv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605217526037	Marionette	INFO	Listening on port 44389
+1605217526213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1976 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1976 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605217858544	geckodriver	INFO	Listening on 127.0.0.1:54947
+1605217859597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesfCDwG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605217868811	Marionette	INFO	Listening on port 34203
+1605217868893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1185 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1185 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5236 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5236 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605217889213	geckodriver	INFO	Listening on 127.0.0.1:55625
+1605217889698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9D9xMr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605217904293	Marionette	INFO	Listening on port 40617
+1605217904519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5845 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5845 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1525 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1525 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605217951976	geckodriver	INFO	Listening on 127.0.0.1:47083
+1605217952998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWAv8vY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605217968352	Marionette	INFO	Listening on port 45695
+1605217969511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3478 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3478 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3371 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3371 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4991 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4991 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605218380274	geckodriver	INFO	Listening on 127.0.0.1:38173
+1605218381063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekI1OEj"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+1605218591948	geckodriver	INFO	Listening on 127.0.0.1:53275
+1605218593728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec1koVk"
+*** You are running in headless mode.
+1605219056968	geckodriver	INFO	Listening on 127.0.0.1:38251
+1605219057937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileME1NO4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605219062677	Marionette	INFO	Listening on port 39373
+1605219062855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 653 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 653 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605219079922	geckodriver	INFO	Listening on 127.0.0.1:39375
+1605219079926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6RxsO3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605219083068	Marionette	INFO	Listening on port 40431
+1605219083158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7575 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7575 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3489 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3489 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605221671711	geckodriver	INFO	Listening on 127.0.0.1:58267
+1605221671751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles7XO19"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605221676495	Marionette	INFO	Listening on port 33901
+1605221676595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5415 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5415 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605221681165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+1605221688549	geckodriver	INFO	Listening on 127.0.0.1:41975
+1605221688553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSGrg35"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605221692888	Marionette	INFO	Listening on port 40041
+1605221692986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4734 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4734 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605222022284	geckodriver	INFO	Listening on 127.0.0.1:36037
+1605222023301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg4wf3q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605222028126	Marionette	INFO	Listening on port 37915
+1605222028264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5828 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5828 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605222862968	geckodriver	INFO	Listening on 127.0.0.1:40787
+1605222863015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNINSzK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605222870134	Marionette	INFO	Listening on port 40155
+1605222870197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 6265 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 6265 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223063819	geckodriver	INFO	Listening on 127.0.0.1:35333
+1605223064550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCj4Wb"
+*** You are running in headless mode.
+1605223571122	geckodriver	INFO	Listening on 127.0.0.1:37537
+1605223572123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOMZsS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223580672	Marionette	INFO	Listening on port 34251
+1605223581019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4870 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4870 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223621259	geckodriver	INFO	Listening on 127.0.0.1:54309
+1605223621263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWKdEAU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223626245	Marionette	INFO	Listening on port 33661
+1605223626325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605223632378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 760 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 760 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223641784	geckodriver	INFO	Listening on 127.0.0.1:60449
+1605223642789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejXZ98N"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223647832	Marionette	INFO	Listening on port 34647
+1605223647941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5344 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5344 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 7772 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 7772 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223665138	geckodriver	INFO	Listening on 127.0.0.1:39525
+1605223666144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIwfJEI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223671696	Marionette	INFO	Listening on port 32855
+1605223671810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript error: https://assets.r7.com/static/widget-24x1-voting/1.2.5/javascripts/script-cda.js, line 1: TypeError: this.handleStatusCode()[l] is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 3658 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 3658 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1013 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 1013 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223699708	geckodriver	INFO	Listening on 127.0.0.1:50233
+1605223700712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0tzncD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223708290	Marionette	INFO	Listening on port 40397
+1605223708367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5886 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5886 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.r7.com/static/widget-24x1-voting/1.2.5/javascripts/script-cda.js, line 1: TypeError: this.handleStatusCode()[l] is not a function
+1605223730496	geckodriver	INFO	Listening on 127.0.0.1:41599
+1605223731504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexAKe8h"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223739797	Marionette	INFO	Listening on port 35595
+1605223739920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605223749044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7330 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7330 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223769632	geckodriver	INFO	Listening on 127.0.0.1:50529
+1605223770637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesyPNPX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223779220	Marionette	INFO	Listening on port 44799
+1605223779321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.r7.com/static/widget-24x1-voting/1.2.5/javascripts/script-cda.js, line 1: TypeError: this.handleStatusCode()[l] is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 135 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 135 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7000 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7000 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223885608	geckodriver	INFO	Listening on 127.0.0.1:57807
+1605223885781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbVO1E"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605223906610	Marionette	INFO	Listening on port 38305
+1605223907284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5462 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5462 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605223981112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605224544086	geckodriver	INFO	Listening on 127.0.0.1:46751
+1605224545064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles120TA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605224548737	Marionette	INFO	Listening on port 42963
+1605224548875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 3320 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 3320 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605225264011	geckodriver	INFO	Listening on 127.0.0.1:55197
+1605225265015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZUx3KH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605225270027	Marionette	INFO	Listening on port 33447
+1605225270156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605225283793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3605 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3605 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605225288879	geckodriver	INFO	Listening on 127.0.0.1:57303
+1605225289882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileed0zyD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605225294624	Marionette	INFO	Listening on port 34549
+1605225294724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 6337 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 6337 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605226015682	geckodriver	INFO	Listening on 127.0.0.1:34467
+1605226016773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNvISYp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605226034309	Marionette	INFO	Listening on port 45021
+1605226034577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5880 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 5880 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605226095069	geckodriver	INFO	Listening on 127.0.0.1:35279
+1605226096088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyc1CH2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605226116887	Marionette	INFO	Listening on port 38967
+1605226117184	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7113 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 7113 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605226527458	geckodriver	INFO	Listening on 127.0.0.1:33553
+1605226528837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYzCvp3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605226552173	Marionette	INFO	Listening on port 43481
+1605226553122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+1605226575001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t.fileExists@https://cdn.pn.vg/push/ilabspush.min.js:1:114835
+_init@https://cdn.pn.vg/push/ilabspush.min.js:1:43609
+init@https://cdn.pn.vg/push/ilabspush.min.js:1:50076
+processPushes/<@https://cdn.pn.vg/push/ilabspush.min.js:1:81157
+processPushes@https://cdn.pn.vg/push/ilabspush.min.js:1:80419
+@https://cdn.pn.vg/push/ilabspush.min.js:1:82725
+n@https://cdn.pn.vg/push/ilabspush.min.js:1:110
+@https://cdn.pn.vg/push/ilabspush.min.js:1:902
+@https://cdn.pn.vg/push/ilabspush.min.js:1:911
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5232 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 5232 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605228359593	geckodriver	INFO	Listening on 127.0.0.1:35279
+1605228360603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg79n1Z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605228371744	Marionette	INFO	Listening on port 33757
+1605228371923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 2551 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 2551 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605228387726	geckodriver	INFO	Listening on 127.0.0.1:60119
+1605228387729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerWfBAv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605228392325	Marionette	INFO	Listening on port 35189
+1605228392369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4094 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TBttBoAOV_9P70wCNe1Yb7YwaEpF9SEuHDe9V7wzOiY.js line 1 > eval line 4094 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3884 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 3884 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1538 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 1538 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://afazenda.r7.com/a-fazenda-12/votacao line 903 > injectedScript, line 1: ReferenceError: analyticsHelper is not defined
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 225: TypeError: a.slice is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4288 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7ACX1ll8pxmp-W5IFnwplmFbwq_vDvpxp5bFF4q7ftk.js line 1 > eval line 4288 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
